@@ -1,0 +1,1296 @@
+-------------------------
+0_2914_106509_-1_76.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': -1}
+Number of consistent train data: 1
+-------------------------
+0_2914_106509_0_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 0}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_1007552764_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 1007552764}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_1007561482_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 1007561482}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_1014680751_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 1014680751}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_103157776_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 103157776}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_1048444253_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 1048444253}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_1108209194_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 1108209194}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_1191599194_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 1191599194}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_1209301505_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 1209301505}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_122129909_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 122129909}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_1331496998_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 1331496998}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_1363706990_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 1363706990}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_145781276_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 145781276}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_1600325479_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 1600325479}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_1816201462_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 1816201462}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_1884256507_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 1884256507}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_1970606947_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 1970606947}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_288936217_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 288936217}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_360278056_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 360278056}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_393836642_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 393836642}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_501309237_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 501309237}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_647500945_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 647500945}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_710057733_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 710057733}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_739735262_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 739735262}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106509_967178013_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106509, 'CategoryId': 967178013}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_-1_539.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': -1}
+Number of consistent train data: 502
+Number of skip train data: 483
+-------------------------
+0_2914_106510_0_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 0}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_1007552764_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 1007552764}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_1007561482_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 1007561482}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_1014680751_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 1014680751}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_103157776_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 103157776}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_1048444253_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 1048444253}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_1108209194_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 1108209194}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_1191599194_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 1191599194}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_1209301505_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 1209301505}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_122129909_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 122129909}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_1331496998_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 1331496998}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_1363706990_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 1363706990}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_145781276_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 145781276}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_1600325479_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 1600325479}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_1816201462_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 1816201462}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_1884256507_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 1884256507}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_1970606947_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 1970606947}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_288936217_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 288936217}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_360278056_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 360278056}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_393836642_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 393836642}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_501309237_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 501309237}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_647500945_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 647500945}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_710057733_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 710057733}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_739735262_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 739735262}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+0_2914_106510_967178013_699.xlsx
+{'MarketId': 0, 'AdvertiserId': 2914, 'CampaignId': 106510, 'CategoryId': 967178013}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+1_3051_105355_-1_52.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': -1}
+Number of consistent train data: 5
+-------------------------
+1_3051_105355_0_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 0}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_1007552764_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 1007552764}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_1007561482_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 1007561482}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_1136248801_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 1136248801}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_1217107996_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 1217107996}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_1419782967_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 1419782967}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_1698341097_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 1698341097}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_1714381509_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 1714381509}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_1838369041_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 1838369041}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_1884256507_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 1884256507}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_1939770162_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 1939770162}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_272007381_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 272007381}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_307512344_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 307512344}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_331770251_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 331770251}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_587672534_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 587672534}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_587705592_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 587705592}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_601694530_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 601694530}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_603041281_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 603041281}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_627299188_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 627299188}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_676054762_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 676054762}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_739735262_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 739735262}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_782042272_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 782042272}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_800963742_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 800963742}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105355_845043661_698.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105355, 'CategoryId': 845043661}
+Number of consistent train data: 679
+Number of skip train data: 662
+-------------------------
+1_3051_105356_-1_252.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': -1}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_105356_0_254.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 0}
+Number of consistent train data: 241
+Number of skip train data: 219
+-------------------------
+1_3051_105356_1007552764_252.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 1007552764}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_105356_1007561482_252.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 1007561482}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_105356_1136248801_252.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 1136248801}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_105356_1217107996_252.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 1217107996}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_105356_1419782967_252.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 1419782967}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_105356_1698341097_252.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 1698341097}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_105356_1714381509_253.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 1714381509}
+Number of consistent train data: 240
+Number of skip train data: 218
+-------------------------
+1_3051_105356_1838369041_252.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 1838369041}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_105356_1884256507_252.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 1884256507}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_105356_1939770162_252.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 1939770162}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_105356_272007381_253.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 272007381}
+Number of consistent train data: 240
+Number of skip train data: 218
+-------------------------
+1_3051_105356_307512344_253.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 307512344}
+Number of consistent train data: 240
+Number of skip train data: 218
+-------------------------
+1_3051_105356_331770251_252.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 331770251}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_105356_587672534_253.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 587672534}
+Number of consistent train data: 240
+Number of skip train data: 218
+-------------------------
+1_3051_105356_587705592_252.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 587705592}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_105356_601694530_253.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 601694530}
+Number of consistent train data: 240
+Number of skip train data: 218
+-------------------------
+1_3051_105356_603041281_254.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 603041281}
+Number of consistent train data: 241
+Number of skip train data: 219
+-------------------------
+1_3051_105356_627299188_253.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 627299188}
+Number of consistent train data: 240
+Number of skip train data: 218
+-------------------------
+1_3051_105356_676054762_253.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 676054762}
+Number of consistent train data: 240
+Number of skip train data: 218
+-------------------------
+1_3051_105356_739735262_254.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 739735262}
+Number of consistent train data: 241
+Number of skip train data: 219
+-------------------------
+1_3051_105356_782042272_253.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 782042272}
+Number of consistent train data: 240
+Number of skip train data: 218
+-------------------------
+1_3051_105356_800963742_253.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 800963742}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_105356_845043661_252.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 105356, 'CategoryId': 845043661}
+Number of consistent train data: 239
+Number of skip train data: 217
+-------------------------
+1_3051_157505_-1_91.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': -1}
+Number of consistent train data: 75
+Number of skip train data: 54
+-------------------------
+1_3051_157505_0_94.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 0}
+Number of consistent train data: 81
+Number of skip train data: 59
+-------------------------
+1_3051_157505_1007552764_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 1007552764}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_1007561482_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 1007561482}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_1136248801_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 1136248801}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_1217107996_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 1217107996}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_1419782967_94.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 1419782967}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_1698341097_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 1698341097}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_1714381509_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 1714381509}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_1838369041_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 1838369041}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_1884256507_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 1884256507}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_1939770162_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 1939770162}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_272007381_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 272007381}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_307512344_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 307512344}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_331770251_96.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 331770251}
+Number of consistent train data: 82
+Number of skip train data: 60
+-------------------------
+1_3051_157505_587672534_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 587672534}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_587705592_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 587705592}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_601694530_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 601694530}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_603041281_95.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 603041281}
+Number of consistent train data: 82
+Number of skip train data: 60
+-------------------------
+1_3051_157505_627299188_94.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 627299188}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_676054762_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 676054762}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_739735262_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 739735262}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_782042272_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 782042272}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_800963742_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 800963742}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_157505_845043661_93.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 157505, 'CategoryId': 845043661}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+1_3051_188626_-1_45.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 188626, 'CategoryId': -1}
+Number of consistent train data: 32
+Number of skip train data: 10
+-------------------------
+1_3051_188626_0_70.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 188626, 'CategoryId': 0}
+Number of consistent train data: 56
+Number of skip train data: 34
+-------------------------
+1_3051_188626_1_21.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 188626, 'CategoryId': 1}
+Number of consistent train data: 8
+-------------------------
+1_3051_188626_2_15.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 188626, 'CategoryId': 2}
+Number of consistent train data: 2
+-------------------------
+1_3051_188627_-1_25.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 188627, 'CategoryId': -1}
+Number of consistent train data: 3
+-------------------------
+1_3051_188627_0_48.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 188627, 'CategoryId': 0}
+Number of consistent train data: 20
+Number of skip train data: 3
+-------------------------
+1_3051_188627_1_13.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 188627, 'CategoryId': 1}
+-------------------------
+1_3051_188627_2_21.xlsx
+{'MarketId': 1, 'AdvertiserId': 3051, 'CampaignId': 188627, 'CategoryId': 2}
+Number of consistent train data: 8
+-------------------------
+2_15911_106512_-1_248.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': -1}
+Number of consistent train data: 170
+Number of skip train data: 141
+-------------------------
+2_15911_106512_0_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 0}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15911_106512_1093612375_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 1093612375}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15911_106512_1119962470_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 1119962470}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15911_106512_1120567434_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 1120567434}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15911_106512_1399825982_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 1399825982}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15911_106512_1745346376_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 1745346376}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15911_106512_1771391024_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 1771391024}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15911_106512_1926724679_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 1926724679}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15911_106512_1930529710_693.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 1930529710}
+Number of consistent train data: 680
+Number of skip train data: 658
+-------------------------
+2_15911_106512_1933655103_675.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 1933655103}
+Number of consistent train data: 596
+Number of skip train data: 568
+-------------------------
+2_15911_106512_2026840770_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 2026840770}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15911_106512_215870833_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 215870833}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15911_106512_274494303_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 274494303}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15911_106512_692902361_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 692902361}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15911_106512_78981365_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15911, 'CampaignId': 106512, 'CategoryId': 78981365}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_-1_78.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': -1}
+Number of consistent train data: 1
+-------------------------
+2_15912_106516_0_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 0}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_1014644101_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 1014644101}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_1163917949_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 1163917949}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_1299443668_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 1299443668}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_1467760103_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 1467760103}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_1607536046_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 1607536046}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_1899268006_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 1899268006}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_1981125160_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 1981125160}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_2046868865_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 2046868865}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_222032895_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 222032895}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_306808388_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 306808388}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_593307660_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 593307660}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_631257637_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 631257637}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_668753909_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 668753909}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_710927542_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 710927542}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_886248102_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 886248102}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_15912_106516_933176928_699.xlsx
+{'MarketId': 2, 'AdvertiserId': 15912, 'CampaignId': 106516, 'CategoryId': 933176928}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+2_3616_106515_0_24.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 0}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_1056598009_26.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 1056598009}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_1129747985_23.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 1129747985}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_1157058607_25.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 1157058607}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_1201996682_24.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 1201996682}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_1251677358_26.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 1251677358}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_1403161255_27.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 1403161255}
+Number of consistent train data: 2
+-------------------------
+2_3616_106515_1489178521_24.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 1489178521}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_150581531_29.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 150581531}
+Number of consistent train data: 2
+-------------------------
+2_3616_106515_1719733619_25.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 1719733619}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_190510425_26.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 190510425}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_1960064216_23.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 1960064216}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_2118878002_25.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 2118878002}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_2123310757_23.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 2123310757}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_2130165758_27.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 2130165758}
+Number of consistent train data: 2
+-------------------------
+2_3616_106515_335893072_25.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 335893072}
+Number of consistent train data: 2
+-------------------------
+2_3616_106515_347955945_24.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 347955945}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_537842849_23.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 537842849}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_559598750_24.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 559598750}
+Number of consistent train data: 1
+-------------------------
+2_3616_106515_90289722_25.xlsx
+{'MarketId': 2, 'AdvertiserId': 3616, 'CampaignId': 106515, 'CategoryId': 90289722}
+Number of consistent train data: 2
+-------------------------
+3_2773_106513_-1_620.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': -1}
+Number of consistent train data: 607
+Number of skip train data: 585
+-------------------------
+3_2773_106513_0_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 0}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_1007102019_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 1007102019}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_1033218918_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 1033218918}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_1220910636_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 1220910636}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_123850463_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 123850463}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_1376409147_84.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 1376409147}
+Number of consistent train data: 71
+Number of skip train data: 49
+-------------------------
+3_2773_106513_1600325479_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 1600325479}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_1652289276_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 1652289276}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_1714381509_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 1714381509}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_1749236875_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 1749236875}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_1881376968_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 1881376968}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_1884256507_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 1884256507}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_1941993914_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 1941993914}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_2044194994_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 2044194994}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_2064083645_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 2064083645}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_269984294_694.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 269984294}
+Number of consistent train data: 670
+Number of skip train data: 634
+-------------------------
+3_2773_106513_307427601_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 307427601}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_357413589_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 357413589}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_357928842_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 357928842}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_477150441_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 477150441}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_587672534_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 587672534}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_647396435_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 647396435}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_739735262_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 739735262}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_785101548_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 785101548}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_800963742_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 800963742}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_857412276_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 857412276}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_106513_874499868_699.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 106513, 'CategoryId': 874499868}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+3_2773_157502_-1_94.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': -1}
+Number of consistent train data: 81
+Number of skip train data: 59
+-------------------------
+3_2773_157502_0_93.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 0}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+3_2773_157502_1007102019_94.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 1007102019}
+Number of consistent train data: 81
+Number of skip train data: 59
+-------------------------
+3_2773_157502_1033218918_95.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 1033218918}
+Number of consistent train data: 82
+Number of skip train data: 60
+-------------------------
+3_2773_157502_1220910636_95.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 1220910636}
+Number of consistent train data: 82
+Number of skip train data: 60
+-------------------------
+3_2773_157502_123850463_95.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 123850463}
+Number of consistent train data: 82
+Number of skip train data: 60
+-------------------------
+3_2773_157502_1600325479_95.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 1600325479}
+Number of consistent train data: 81
+Number of skip train data: 59
+-------------------------
+3_2773_157502_1652289276_94.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 1652289276}
+Number of consistent train data: 81
+Number of skip train data: 59
+-------------------------
+3_2773_157502_1714381509_93.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 1714381509}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+3_2773_157502_1749236875_96.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 1749236875}
+Number of consistent train data: 81
+Number of skip train data: 60
+-------------------------
+3_2773_157502_1881376968_97.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 1881376968}
+Number of consistent train data: 81
+Number of skip train data: 59
+-------------------------
+3_2773_157502_1884256507_94.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 1884256507}
+Number of consistent train data: 81
+Number of skip train data: 59
+-------------------------
+3_2773_157502_1941993914_95.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 1941993914}
+Number of consistent train data: 81
+Number of skip train data: 59
+-------------------------
+3_2773_157502_2044194994_94.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 2044194994}
+Number of consistent train data: 81
+Number of skip train data: 59
+-------------------------
+3_2773_157502_2064083645_93.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 2064083645}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+3_2773_157502_269984294_96.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 269984294}
+Number of consistent train data: 81
+Number of skip train data: 60
+-------------------------
+3_2773_157502_307427601_94.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 307427601}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+3_2773_157502_357413589_95.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 357413589}
+Number of consistent train data: 81
+Number of skip train data: 59
+-------------------------
+3_2773_157502_357928842_94.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 357928842}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+3_2773_157502_477150441_95.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 477150441}
+Number of consistent train data: 82
+Number of skip train data: 60
+-------------------------
+3_2773_157502_587672534_94.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 587672534}
+Number of consistent train data: 81
+Number of skip train data: 59
+-------------------------
+3_2773_157502_647396435_94.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 647396435}
+Number of consistent train data: 80
+Number of skip train data: 58
+-------------------------
+3_2773_157502_739735262_94.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 739735262}
+Number of consistent train data: 81
+Number of skip train data: 59
+-------------------------
+3_2773_157502_785101548_96.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 785101548}
+Number of consistent train data: 83
+Number of skip train data: 61
+-------------------------
+3_2773_157502_800963742_95.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 800963742}
+Number of consistent train data: 82
+Number of skip train data: 60
+-------------------------
+3_2773_157502_857412276_94.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 857412276}
+Number of consistent train data: 81
+Number of skip train data: 59
+-------------------------
+3_2773_157502_874499868_99.xlsx
+{'MarketId': 3, 'AdvertiserId': 2773, 'CampaignId': 157502, 'CategoryId': 874499868}
+Number of consistent train data: 83
+Number of skip train data: 61
+-------------------------
+4_22864_106511_0_690.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 0}
+Number of consistent train data: 664
+Number of skip train data: 620
+-------------------------
+4_22864_106511_1019498501_696.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 1019498501}
+Number of consistent train data: 670
+Number of skip train data: 651
+-------------------------
+4_22864_106511_1236694039_687.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 1236694039}
+Number of consistent train data: 661
+Number of skip train data: 617
+-------------------------
+4_22864_106511_1264934956_691.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 1264934956}
+Number of consistent train data: 665
+Number of skip train data: 631
+-------------------------
+4_22864_106511_1345039788_687.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 1345039788}
+Number of consistent train data: 661
+Number of skip train data: 617
+-------------------------
+4_22864_106511_1415097530_688.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 1415097530}
+Number of consistent train data: 661
+Number of skip train data: 618
+-------------------------
+4_22864_106511_1416256741_687.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 1416256741}
+Number of consistent train data: 661
+Number of skip train data: 617
+-------------------------
+4_22864_106511_1466143889_687.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 1466143889}
+Number of consistent train data: 661
+Number of skip train data: 617
+-------------------------
+4_22864_106511_1469580223_693.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 1469580223}
+Number of consistent train data: 665
+Number of skip train data: 633
+-------------------------
+4_22864_106511_14975341_687.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 14975341}
+Number of consistent train data: 661
+Number of skip train data: 617
+-------------------------
+4_22864_106511_1654090720_604.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 1654090720}
+Number of consistent train data: 540
+Number of skip train data: 476
+-------------------------
+4_22864_106511_1728374149_695.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 1728374149}
+Number of consistent train data: 668
+Number of skip train data: 645
+-------------------------
+4_22864_106511_1963222332_699.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 1963222332}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+4_22864_106511_1996769047_691.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 1996769047}
+Number of consistent train data: 665
+Number of skip train data: 631
+-------------------------
+4_22864_106511_395024242_690.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 395024242}
+Number of consistent train data: 663
+Number of skip train data: 630
+-------------------------
+4_22864_106511_535750448_699.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 535750448}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+4_22864_106511_563052188_688.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 563052188}
+Number of consistent train data: 662
+Number of skip train data: 618
+-------------------------
+4_22864_106511_568619856_689.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 568619856}
+Number of consistent train data: 661
+Number of skip train data: 619
+-------------------------
+4_22864_106511_62503533_698.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 62503533}
+Number of consistent train data: 678
+Number of skip train data: 658
+-------------------------
+4_22864_106511_758818633_699.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 758818633}
+Number of consistent train data: 686
+Number of skip train data: 664
+-------------------------
+4_22864_106511_768086752_687.xlsx
+{'MarketId': 4, 'AdvertiserId': 22864, 'CampaignId': 106511, 'CategoryId': 768086752}
+Number of consistent train data: 661
+Number of skip train data: 617

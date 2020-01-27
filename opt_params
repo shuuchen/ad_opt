@@ -1,0 +1,89 @@
+params = {
+    # consistent sales
+    'consistent_sales': {'alpha': 0.057837101935954684,
+     'colsample_bytree': 0.8,
+     'eta': 0.07500000000000001,
+     'gamma': 5.208659711281603e-05,
+     'lambda': 0.011065383517695773,
+     'max_depth': 3,
+     'min_child_weight': 1.3327693248801977,
+     'n_estimators': 401.0,
+     'subsample': 0.8500000000000001},
+    
+    # consistent clicks
+    'consistent_clicks': {'alpha': 4.823655043954879e-07,
+     'colsample_bytree': 0.9,
+     'eta': 0.225,
+     'gamma': 3.226021945051349e-05,
+     'lambda': 1.0034293959003492e-06,
+     'max_depth': 6,
+     'min_child_weight': 8.688868825894192,
+     'n_estimators': 176.0,
+     'subsample': 0.9500000000000001},
+
+    # consistent impressions
+    'consistent_impressions': {'alpha': 6.647423045068218e-05,
+    'colsample_bytree': 0.7000000000000001,
+    'eta': 0.35000000000000003,
+    'gamma': 9.929595921823672e-08,
+    'lambda': 7.031458011869039,
+    'max_depth': 5,
+    'min_child_weight': 0.7360501376864138,
+    'n_estimators': 101.0,
+    'subsample': 0.75},
+    
+    # consistent cost
+    'consistent_cost': {'alpha': 2.8578608885510106e-05,
+     'colsample_bytree': 0.9,
+     'eta': 0.375,
+     'gamma': 1.626902660420816e-05,
+     'lambda': 0.9604127545221981,
+     'max_depth': 5,
+     'min_child_weight': 2.029792498237964,
+     'n_estimators': 374.0,
+     'subsample': 0.9500000000000001},
+    
+    # skip sales
+    'skip_sales': {'alpha': 8.276787331565617e-06,
+     'colsample_bytree': 0.75,
+     'eta': 0.07500000000000001,
+     'gamma': 0.01649438786046292,
+     'lambda': 0.22097300588062377,
+     'max_depth': 5,
+     'min_child_weight': 7.449328429538007,
+     'n_estimators': 918.0,
+     'subsample': 0.75},
+    
+    # skip clicks
+    'skip_clicks' : {'alpha': 5.381322057246327e-07,
+     'colsample_bytree': 0.9,
+     'eta': 0.2,
+     'gamma': 1.6528274970932927e-07,
+     'lambda': 6.950129325371027e-05,
+     'max_depth': 6,
+     'min_child_weight': 0.5694636899058642,
+     'n_estimators': 664.0,
+     'subsample': 0.9},
+    
+    # skip impressions
+    'skip_impressions': {'alpha': 7.141182316783423e-05,
+     'colsample_bytree': 0.6000000000000001,
+     'eta': 0.05,
+     'gamma': 9.915802487125703e-06,
+     'lambda': 0.011870790181583973,
+     'max_depth': 6,
+     'min_child_weight': 7.686339082012547,
+     'n_estimators': 810.0,
+     'subsample': 0.8500000000000001},
+    
+    # skip cost
+    'skip_cost': {'alpha': 9.884316230116986e-08,
+     'colsample_bytree': 0.9500000000000001,
+     'eta': 0.30000000000000004,
+     'gamma': 7.075270751580355e-07,
+     'lambda': 0.0029099793175984797,
+     'max_depth': 5,
+     'min_child_weight': 2.311509085786557,
+     'n_estimators': 457.0,
+     'subsample': 0.8500000000000001},
+}
